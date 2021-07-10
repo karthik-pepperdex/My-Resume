@@ -43,5 +43,3 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 5) The app will begin deploying & the deployment URL will be presented!
 
 🚀 BOOM, you are now LIVE!!!
-
-## Credits
