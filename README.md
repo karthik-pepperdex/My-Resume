@@ -1,4 +1,4 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# My Resume
 
 ## Resume Starter Pack Description
 
