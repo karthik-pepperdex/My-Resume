@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Karthik Pariti",
+    "occupation": "Web Developer, AI Engineer",
+    "description": "I eat, sleep and breathe React",
+    "image": "Me.jpg",
+    "bio": "Hi there! I am Karthik! I've been coding for over 2 Years Now. I am a Full Stack Web Developer and an AI engineer. Although I have faced many obstacles in my 2 Years of Programming, one thing I have learnt is to never give up. I am proud to say that I might have failed multiple times, but I have never succumbed.",
+    "contactmessage": "Get in touch with me so that we can have fun together!!",
+    "email": "karthik.pariti101@gmail.com",
+    "phone": "+91 7989443771",
+    "address": {
+      "street": "5, Alkapuri Colony",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500035"
+    },
+    "website": "https://kardev07.github.io/my-portfolio/",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/MrPkar",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100069947942714",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCMPJO-RxwzuwPUDivH-y-GA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/__mr.pkar__/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Kardev07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Delhi Public School, Hyderabad, India",
+        "degree": "Still Studying"
+      }
+    ],
+    "work": [
+      {
+        "company": "AISSOL",
+        "title": "Founder and CEO",
+        "years": "July 2021 - Present",
+        "description": "Makeover of AI use cases as much as possible and giving a premium to security!!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Disney+ Clone (React JS)",
+        "category": "",
+        "image": "disney.jpg",
+        "url": "https://disney-plus-clone-eae3c.web.app/"
+      },
+      {
+        "title": "TIC TAC TOE",
+        "category": "",
+        "image": "tic tac toe.jpg",
+        "url": "https://kardev07.github.io/TIC-TAC-TOE-using-JavaScript/"
+      },
+      {
+        "title": "Saas Product",
+        "category": "",
+        "image": "Saas.jpg",
+        "url": "https://kardev07.github.io/Saas-Product/"
+      },
+      {
+        "title": "Landing Page",
+        "category": "",
+        "image": "Landing Page.jpg",
+        "url": "https://kardev07.github.io/Landing-Page/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Karthik is a very talented person, really focused from mind. He is really humble from heart and is really visionary",
+        "user": "Ayush Yanamandra"
+      }
+    ]
+  }
+}
