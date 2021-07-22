@@ -15,7 +15,7 @@
       "zip": "500035"
     },
     "website": "https://kardev07.github.io/my-portfolio/",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://kardev07.github.io/my-portfolio/",
     "social": [
       {
         "name": "twitter",
@@ -50,14 +50,6 @@
       {
         "school": "Delhi Public School, Hyderabad, India",
         "degree": "Still Studying"
-      }
-    ],
-    "work": [
-      {
-        "company": "AISSOL",
-        "title": "Founder and CEO",
-        "years": "July 2021 - Present",
-        "description": "Makeover of AI use cases as much as possible and giving a premium to security!!"
       }
     ],
     "skills": [
@@ -98,10 +90,10 @@
         "url": "https://kardev07.github.io/TIC-TAC-TOE-using-JavaScript/"
       },
       {
-        "title": "Saas Product",
+        "title": "Netflix Clone",
         "category": "",
-        "image": "Saas.jpg",
-        "url": "https://kardev07.github.io/Saas-Product/"
+        "image": "Netflix.jpg",
+        "url": "https://netflix-clone-8f423.web.app/"
       },
       {
         "title": "Landing Page",
