@@ -1,7 +1,6 @@
 # My Resume
 
-Check my resume here!: https://resume-4af62.web.app
-![Resume Demo](https://resume-4af62.web.app)
+Check my resume here!: https://resume-9f5c3.web.app
 
 ## Resume Starter Pack Description
 
